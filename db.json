@@ -44,10 +44,10 @@
         "exotic"
     ],
     "details": [
-        "La mela è il falso frutto del melo, infatti, il vero frutto è il torsolo, che, erroneamente buttiamo. Il melo ha origine in Asia centrale e l'evoluzione dei meli botanici risalirebbe al Neolitico.",
-        "L'arancio è un albero da frutto appartenente alla famiglia delle Rutacee, il cui frutto è l'arancia, talora chiamata arancia dolce per distinguerla dall'arancia amara. È un antico ibrido, risultato di un incrocio di oltre 4000 anni fa tra il pomelo e il mandarino.",
-        "Il melone o popone è una pianta annua rampicante della famiglia Cucurbitaceae della quale sono state selezionate innumerevoli cultivar. Il termine melone indica sia il frutto che la pianta stessa, a seconda dei contesti in cui viene utilizzato. È largamente coltivata per i suoi frutti commestibili, dolci e profumati.",
-        "Il termine banana indica la falsa bacca della pianta del banano, originario dei paesi con clima tropicale nel Sud-Est Asiatico. Famiglia delle Musaceae. Il frutto si sviluppa in una serie di grappoli. Le banane pesano tipicamente 90-200 g, benché questo peso vari considerevolmente fra le differenti cultivar.",
-        "L'ananas o ananasso è una pianta della famiglia delle Bromeliaceae, originaria del Brasile, della Bolivia del Paraguay e di Cuba."
+        { "id":"1", "description":"La mela è il falso frutto del melo, infatti, il vero frutto è il torsolo, che, erroneamente buttiamo. Il melo ha origine in Asia centrale e l'evoluzione dei meli botanici risalirebbe al Neolitico."},
+        { "id":"1", "description":"L'arancio è un albero da frutto appartenente alla famiglia delle Rutacee, il cui frutto è l'arancia, talora chiamata arancia dolce per distinguerla dall'arancia amara. È un antico ibrido, risultato di un incrocio di oltre 4000 anni fa tra il pomelo e il mandarino."},
+        { "id":"1", "description":"Il melone o popone è una pianta annua rampicante della famiglia Cucurbitaceae della quale sono state selezionate innumerevoli cultivar. Il termine melone indica sia il frutto che la pianta stessa, a seconda dei contesti in cui viene utilizzato. È largamente coltivata per i suoi frutti commestibili, dolci e profumati."},
+        { "id":"1", "description":"Il termine banana indica la falsa bacca della pianta del banano, originario dei paesi con clima tropicale nel Sud-Est Asiatico. Famiglia delle Musaceae. Il frutto si sviluppa in una serie di grappoli. Le banane pesano tipicamente 90-200 g, benché questo peso vari considerevolmente fra le differenti cultivar."},
+        { "id":"1", "description":"L'ananas o ananasso è una pianta della famiglia delle Bromeliaceae, originaria del Brasile, della Bolivia del Paraguay e di Cuba."}
     ]
 }
