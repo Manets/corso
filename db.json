@@ -43,6 +43,22 @@
         "winter",
         "exotic"
     ],
+    "nav": [{
+        "label": "Home",
+        "url": "homepage"
+    }, {
+        "label": "Chi siamo",
+        "url": "chi-siamo"
+    }, {
+        "label": "I prodotti",
+        "url": "prodotti"
+    }, {
+        "label": "Assistenza",
+        "url": "assistenza"
+    }, {
+        "label": "Contatti",
+        "url": "contatti"
+    }],
     "details": [
         { "id":"1", "description":"La mela è il falso frutto del melo, infatti, il vero frutto è il torsolo, che, erroneamente buttiamo. Il melo ha origine in Asia centrale e l'evoluzione dei meli botanici risalirebbe al Neolitico."},
         { "id":"2", "description":"L'arancio è un albero da frutto appartenente alla famiglia delle Rutacee, il cui frutto è l'arancia, talora chiamata arancia dolce per distinguerla dall'arancia amara. È un antico ibrido, risultato di un incrocio di oltre 4000 anni fa tra il pomelo e il mandarino."},
